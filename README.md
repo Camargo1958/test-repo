@@ -1,2 +1,2 @@
-# README V 1.0
+# README V 1.1 - First revision
 #
